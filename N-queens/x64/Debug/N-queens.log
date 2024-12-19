@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dell\Downloads\N-queens\N-queens\Source.cpp(91,22): warning C4309: '=': truncation of constant value
+C:\Users\dell\Downloads\N-queens\N-queens\Source.cpp(196,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  N-queens.vcxproj -> C:\Users\dell\Downloads\N-queens\N-queens\x64\Debug\N-queens.exe
